@@ -1,0 +1,37 @@
+/* Indexes */
+
+$index-1-overlapping: 1; /* Overlapping element 1 */
+$index-2-overlapping: 2; /* Overlapping element 2 */
+$index-header: 10; /* Header */
+$index-dimming-overlay: 15; /* Dimming overlay */
+$index-sidebar: 20; /* Sidebar */
+$index-modal: 25; /* Modal window */
+$index-full-overlapping: 30; /* Elements overlapping everything */
+
+//default variables
+:root {
+	/* Fonts */
+
+	--font-family-default: Rubik, roboto, sans-serif;
+	--font-family-heading: Playfair Display, Arial, sans-serif;
+	--font-weight-default: 400;
+
+	/* Sizes */
+
+	/* minimum sizes */
+
+	--width-minimum: 360px;
+	--height-minimum: 640px;
+
+	/* header sizes */
+
+	--header-height: 4rem;
+
+	/* 100vh */
+
+	--100vh: max(100vh, var(--height-minimum));
+
+	@supports (--100vh: 100svh) {
+		--100vh: max(100svh, var(--height-minimum));
+	}
+}
