@@ -27,7 +27,7 @@
    - [2. "Грязные" функции](./3.%20TypeScript/2.%20dirty_functions.md)
    - [3. Debounce](./3.%20TypeScript/3.%20debounce.md)
    - [4. Throttle](./3.%20TypeScript/4.%20throttle.md)
-   - [5. higher-order functions]
+   - [5. higher-order functions](./3.%20TypeScript/5.%20higher-order_functions.md)
    - [6. Curry](./3.%20TypeScript/6.%20curry.md)
 
 4. [Folders](./4.%20Folders)
