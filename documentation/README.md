@@ -6,6 +6,7 @@
 
 - [Как пройти в IT](https://www.youtube.com/@it2138)
 - [Дока](https://doka.guide)
+- [HTML и CSS](https://hcdev.ru)
 - [MDN Web Docs](https://developer.mozilla.org/)
 
 ## Содержание
